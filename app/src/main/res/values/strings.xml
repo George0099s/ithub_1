@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ITHUB1</string>
+
+    <!--    common-->
+    <string name="loading">Загрузка</string>
+    <string name="settings">Настройка</string>
+
+
+    <!--    SecondActivity-->
+    <string name="second_activity_title">Пользователь ITHUB</string>
+    <string name="second_activity_name_hint">Введите имя</string>
+    <string name="second_activity_group_hint">Введите группу</string>
+
+
+</resources>
